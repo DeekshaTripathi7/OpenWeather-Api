@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.input{
+    text-align: center;
+}
+
+.container{
+    padding: 50px;
+    background: darkslategray;
+    
+}
+
+
+input[type="text"]{
+    height: 50px;
+    width: 50%;
+    background: cornsilk;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    border: none;
+    border-radius: 10px;
+}
+
+.display{
+    width: 50px;
+    background: darksalmon;
+    margin-top: 10px;
+    padding: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    
+}
